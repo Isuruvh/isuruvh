@@ -59,9 +59,21 @@ I enjoy turning complex identity requirements into practical developer experienc
 
 ## 📜 Certificates
 
-### Microsoft Learn
+### Microsoft Certifications
 
-[![Microsoft Certified: Azure Network Engineer Associate](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main)](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9AC6952112A3FAA?sharingId=26AF776D0347F7BE)
+- Microsoft Certified: Identity and Access Administrator Associate
+- Microsoft Certified: Fabric Analytics Engineer Associate
+- Microsoft Certified: Windows Server Administrator Associate
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Network Engineer Associate
+
+### Other Certifications
+
+- SailPoint Identity Security Leader Credential
+- Okta Certified Developer
+- HashiCorp Certified: Terraform Associate (004)
+- CompTIA Security+ ce Certification
+- Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
 
 ---
 
