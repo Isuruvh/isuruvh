@@ -4,7 +4,7 @@
 
 I work on building secure, scalable authentication and authorization solutions across web, mobile, and cloud environments.
 
-My primary focus is **Identity and Access Management (IAM)**, with hands-on experience exploring and implementing solutions using **Okta, Microsoft Entra ID, Auth0, OAuth 2.0, OpenID Connect, SAML, JWTs, and Microsoft Graph**.
+My primary focus is **Identity and Access Management (IAM)**, with hands-on experience exploring and implementing solutions using **Okta, Microsoft Entra ID, Auth0, OAuth 2.0, OpenID Connect, SAML, JW[...]
 
 I enjoy turning complex identity requirements into practical developer experiences, secure application integrations, and reusable implementation examples.
 
@@ -54,6 +54,26 @@ I enjoy turning complex identity requirements into practical developer experienc
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 📜 Certificates
+
+### Credly
+
+- [Credly Certificate 1](https://www.credly.com/earner/earned/badge/6b39cea6-65e0-4886-9aaf-b21679554a22)
+- [Credly Certificate 2](https://www.credly.com/earner/earned/badge/435c56f3-48e1-403a-9390-d10dcf5ba278)
+- [Credly Certificate 3](https://www.credly.com/earner/earned/badge/d70c6184-a470-48ca-a091-120827bf4fb8)
+- [Credly Certificate 4](https://www.credly.com/earner/earned/badge/5f6e6156-3208-4f0c-bbaf-f10a915e6a61)
+- [Credly Certificate 5](https://www.credly.com/earner/earned/badge/07fa7c70-6629-421d-881f-0923ac59c21c)
+
+### Microsoft Learn
+
+- [Microsoft Learn Certificate 1](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9AC6952112A3FAA?sharingId=26AF776D0347F7BE)
+- [Microsoft Learn Certificate 2](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/33A78848E0CBC9C5?sharingId=26AF776D0347F7BE)
+- [Microsoft Learn Certificate 3](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/604C05F67D8AD566?sharingId=26AF776D0347F7BE)
+- [Microsoft Learn Certificate 4](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9F8FCD1FE0AC54D2?sharingId=26AF776D0347F7BE)
+- [Microsoft Learn Certificate 5](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/41A6D4EA432F7D66?sharingId=26AF776D0347F7BE)
 
 ---
 
