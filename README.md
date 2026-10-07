@@ -59,18 +59,18 @@ I enjoy turning complex identity requirements into practical developer experienc
 
 ## 📜 Certificates
 
-### Microsoft Certifications
+### Core IAM Certifications
 
+- Okta Certified Developer
 - Microsoft Certified: Identity and Access Administrator Associate
-- Microsoft Certified: Fabric Analytics Engineer Associate
 - Microsoft Certified: Windows Server Administrator Associate
+- SailPoint Identity Security Leader Credential
+
+### Supporting Certifications
+
+- Microsoft Certified: Fabric Analytics Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Network Engineer Associate
-
-### Other Certifications
-
-- SailPoint Identity Security Leader Credential
-- Okta Certified Developer
 - HashiCorp Certified: Terraform Associate (004)
 - CompTIA Security+ ce Certification
 - Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
