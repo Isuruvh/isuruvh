@@ -59,21 +59,9 @@ I enjoy turning complex identity requirements into practical developer experienc
 
 ## 📜 Certificates
 
-### Credly
-
-- [Credly Certificate 1](https://www.credly.com/earner/earned/badge/6b39cea6-65e0-4886-9aaf-b21679554a22)
-- [Credly Certificate 2](https://www.credly.com/earner/earned/badge/435c56f3-48e1-403a-9390-d10dcf5ba278)
-- [Credly Certificate 3](https://www.credly.com/earner/earned/badge/d70c6184-a470-48ca-a091-120827bf4fb8)
-- [Credly Certificate 4](https://www.credly.com/earner/earned/badge/5f6e6156-3208-4f0c-bbaf-f10a915e6a61)
-- [Credly Certificate 5](https://www.credly.com/earner/earned/badge/07fa7c70-6629-421d-881f-0923ac59c21c)
-
 ### Microsoft Learn
 
-- [Microsoft Learn Certificate 1](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9AC6952112A3FAA?sharingId=26AF776D0347F7BE)
-- [Microsoft Learn Certificate 2](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/33A78848E0CBC9C5?sharingId=26AF776D0347F7BE)
-- [Microsoft Learn Certificate 3](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/604C05F67D8AD566?sharingId=26AF776D0347F7BE)
-- [Microsoft Learn Certificate 4](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9F8FCD1FE0AC54D2?sharingId=26AF776D0347F7BE)
-- [Microsoft Learn Certificate 5](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/41A6D4EA432F7D66?sharingId=26AF776D0347F7BE)
+[![Microsoft Certified: Azure Network Engineer Associate](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main)](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9AC6952112A3FAA?sharingId=26AF776D0347F7BE)
 
 ---
 
