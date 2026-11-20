@@ -131,11 +131,23 @@ Some areas represented in my repositories include:
 
 ---
 
+---
+<a href="https://gitscore.live/Isuruvh">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/Isuruvh?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/Isuruvh?style=card" alt="GitScore for Isuruvh" />
+  </picture>
+</a>
+
+---
+
+---
 ## 🤝 Let's Connect
 
 I'm interested in IAM, cloud security, authentication architecture, developer experience, and secure application integration.
 
 If you are working on identity, access management, or cloud security, feel free to connect and collaborate.
+
 
 ---
 
